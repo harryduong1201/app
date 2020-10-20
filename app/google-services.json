@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509048966404",
+    "firebase_url": "https://appdanagon.firebaseio.com",
+    "project_id": "appdanagon",
+    "storage_bucket": "appdanagon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509048966404:android:4ba78dcfd03485fbc09451",
+        "android_client_info": {
+          "package_name": "poly.edu.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509048966404-oh8avsvubeamibgiedoo4h6gn0511f16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhezYp8vSDHi6dA0JioQd1uPUNPWm_cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509048966404-oh8avsvubeamibgiedoo4h6gn0511f16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

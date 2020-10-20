@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DanaGon</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_shopping">Mua Sắm</string>
+    <string name="title_news">Tin Tức</string>
+    <string name="title_posts">Bài Viết</string>
+</resources>
